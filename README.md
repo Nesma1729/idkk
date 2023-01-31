@@ -1,2 +1,5 @@
 # idkk
 train
+
+
+## project notes
